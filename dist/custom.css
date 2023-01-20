@@ -1,0 +1,14 @@
+.round-img {
+  border-radius: 50%;
+}
+
+.two-column  {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.column {
+  flex: 1;
+}
